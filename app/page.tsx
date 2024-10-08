@@ -39,10 +39,10 @@ export default function Home() {
           </div>
         </div>
         
-        <h1 className="text-3xl font-bold mb-4">Welcome to TonIce</h1>
+        <h1 className="text-3xl font-bold mb-4">Welcome to Cưng Cưng”</h1>
         
-        <p className="text-xl mb-2">The game is on the <Link href="/clicker" className="underline">Clicker</Link> page.</p>
-        <p className="text-xl mb-6">Developed by <Link href="https://www.youtube.com/@NikandrSurkov" target="_blank" className="underline">Nikandr Surkov</Link>.</p>
+        <p className="text-xl mb-2">The game is on the <Link href="/clicker" className="underline">Cưng Cưng”</Link> page.</p>
+        <p className="text-xl mb-6">Developed by <Link href="https://gameotivity.net" target="_blank" className="underline">Gameotivity</Link>.</p>
         
         <div className="flex items-center space-x-2">
           <IceCube className="w-8 h-8 animate-pulse" />
