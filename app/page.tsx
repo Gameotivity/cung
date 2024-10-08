@@ -10,6 +10,8 @@
  * YouTube: https://www.youtube.com/@NikandrSurkov
  * Telegram: https://t.me/nikandr_s
  * Telegram channel for news/updates: https://t.me/clicker_game_news
+ * 
+ * mongodb+srv://nabeelkhayal0045:w5HANVqlkMx3N6jy@curug.7vejq.mongodb.net/?retryWrites=true&w=majority&appName=Curug
  * GitHub: https://github.com/nikandr-surkov
  */
 
